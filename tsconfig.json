@@ -14,5 +14,10 @@
     "target": "ES2018",
   },
   "exclude": ["**/__tests__/*"],
-  "include": ["src"]
+  "include": ["src"],
+  "baseUrl": ".",
+  "paths": {
+    "@flyerhq/react-native-chat-ui": ["../src"]
+  },
+  "resolveJsonModule": true,
 }

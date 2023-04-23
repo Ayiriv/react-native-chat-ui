@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366326,
+    "id": "51cde56a-7aeb-470d-b27c-86f5f773e1d4",
+    "status": "seen",
+    "text": "Sed voluptas ut voluptas eos laudantium aut enim reiciendis.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366325,
+    "id": "4779d2f1-ea0c-4713-ad2c-61918eb4cb28",
+    "status": "seen",
+    "text": "Adipisci iusto est ipsa aperiam.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Jane",
+      "id": "06c33e8b-e835-4736-80f4-63f44b66666c",
+      "imageUrl": "https://avatars.githubusercontent.com/u/33809426?v=4"
+    },
+    "createdAt": 1682229366325,
+    "id": "4c34a1cd-a88a-499d-a3d9-66ee5a70efa1",
+    "status": "seen",
+    "text": "Expedita dolorem voluptatem exercitationem beatae voluptas velit illo reprehenderit nobis.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Jane",
+      "id": "06c33e8b-e835-4736-80f4-63f44b66666c",
+      "imageUrl": "https://avatars.githubusercontent.com/u/33809426?v=4"
+    },
+    "createdAt": 1682229366324,
+    "id": "1f8e3737-69f8-4451-bcb4-0f3a0354b0d8",
+    "status": "seen",
+    "text": "Quia ab ratione in illo. Numquam quidem ipsa culpa non sunt. Repudiandae quos dolorem aut aspernatur. Consectetur dolore nulla similique quo optio esse cupiditate.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Jane",
+      "id": "06c33e8b-e835-4736-80f4-63f44b66666c",
+      "imageUrl": "https://avatars.githubusercontent.com/u/33809426?v=4"
+    },
+    "createdAt": 1682229366323,
+    "id": "c4674829-e77c-45be-8efb-b45054ef651b",
+    "status": "seen",
+    "text": "Dolore et corporis quod. Quas fuga omnis fugit asperiores mollitia est reiciendis ullam. Itaque aliquam error architecto assumenda qui quaerat rem dolor. Repellendus ad minima eum perspiciatis iure et praesentium iure.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366322,
+    "id": "0d873c0b-db81-4971-97b1-f80a00e850ff",
+    "status": "seen",
+    "text": "Accusantium cumque molestiae dolor sapiente.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366321,
+    "id": "9ac86323-09aa-403b-bd05-513c822c03b4",
+    "status": "seen",
+    "text": "Ratione molestiae atque vero quia et dolores tempora dolorum. Ut rerum veniam aperiam tempora. Accusantium ea fugit non quis unde. Minima ut optio est deserunt dicta illo necessitatibus blanditiis aut.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366320,
+    "id": "9f9e7179-a075-48ea-b365-46a22684a9ac",
+    "status": "seen",
+    "text": "Ducimus atque voluptas sint quia enim autem delectus. Eum corporis aut ex vel. Voluptatem corrupti eaque repellendus quas. Neque molestiae id aliquid consectetur ea et molestiae qui. Quaerat ut quos recusandae.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Jane",
+      "id": "06c33e8b-e835-4736-80f4-63f44b66666c",
+      "imageUrl": "https://avatars.githubusercontent.com/u/33809426?v=4"
+    },
+    "createdAt": 1682229366319,
+    "id": "35bbb0b3-a81f-4999-9906-6093352880e2",
+    "status": "seen",
+    "text": "Commodi facere ea molestias et ipsa.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "b4878b96-efbc-479a-8291-474ef323dec7",
+      "imageUrl": "https://avatars.githubusercontent.com/u/14123304?v=4"
+    },
+    "createdAt": 1682229366318,
+    "id": "8ea44955-568a-41c4-834e-9d28c80cdc40",
+    "status": "seen",
+    "text": "Voluptatem incidunt qui id quaerat.",
+    "type": "text"
+  }
+]
